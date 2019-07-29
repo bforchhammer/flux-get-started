@@ -1,0 +1,1 @@
+{"jobID":"4d9e8f48-fa06-f40d-a30c-bf9475db0b89","spec":{"type":"policy","cause":{"Message":"","User":"Benedikt Forchhammer \u003cb.forchhammer@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
